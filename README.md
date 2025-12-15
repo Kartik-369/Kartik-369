@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kartik-369)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">
-[![Kartik-369's GitHub stats](https://github-host-stats.vercel.app/api?username=Kartik-369&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/Kartik-369)
+[![Kartik-369's GitHub stats](https://github-host-stats.vercel.app/api?username=Kartik-369&show_icons=true&include_all_commits=true&count_private=true&theme=radical)(https://github.com/Kartik-369)
 
 
 <div align="center">
