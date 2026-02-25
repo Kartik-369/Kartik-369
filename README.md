@@ -6,9 +6,9 @@
   </a>
 </div>
 <br>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-369&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Kartik-369&theme=dracula&mode=daily&hide_border=false&border_radius=5" alt="GitHub Streak" />
