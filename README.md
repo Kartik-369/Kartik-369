@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kartik%20Padia&reversal=false&textBg=false"/>
 <br>
 <div align="center">
   <a href="https://github.com/Kartik-369">
