@@ -43,7 +43,7 @@ Background in Full-Stack Development, Applied AI, and Automation.
   <a href="https://github.com/Kartik-369">
     <img src="https://github-host-stats.vercel.app/api?username=Kartik-369&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Kartik's Stats" height="175px" />
   </a>
-  <img src="https://streak-stats.demolab.com?user=Kartik-36&theme=dracula&mode=daily&hide_border=true&border_radius=5" alt="GitHub Streak" height="175px" />
+  <img src="https://streak-stats.demolab.com?user=Kartik-369&theme=dracula&mode=daily&hide_border=true&border_radius=5" alt="GitHub Streak" height="175px" />
 </div>
 
 ---
