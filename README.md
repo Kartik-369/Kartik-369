@@ -66,18 +66,26 @@ Background in Full-Stack Development, Applied AI, and Automation.
 ## 📊 Analytics & Impact
 
 <div align="center">
+  <!-- GitHub Trophies to flex specific achievements (Commits, PRs, Stars) -->
   <a href="https://github.com/Kartik-369">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kartik-369&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Kartik's GitHub Stats" height="175px" />
-  </a>
-  <a href="https://github.com/Kartik-369">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-369&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="175px" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Kartik-369&theme=radical&no-frame=true&row=1&column=5&margin-w=15" alt="Kartik's GitHub Trophies" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kartik-369&theme=radical&mode=daily&hide_border=true&border_radius=5" alt="GitHub Streak" height="170px" />
+  <!-- Dynamic Contribution Graph to show consistency -->
+  <a href="https://github.com/Kartik-369">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartik-369&theme=react-dark&hide_border=true&area=true" alt="Kartik's GitHub Activity Graph" width="90%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- The reliable streak stats -->
+  <img src="https://streak-stats.demolab.com?user=Kartik-369&theme=radical&mode=daily&hide_border=true&border_radius=5" alt="GitHub Streak" height="175px" />
 </div>
 
 ---
