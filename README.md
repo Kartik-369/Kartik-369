@@ -1,6 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Kartik%20Padia&section=header" width="100%" />
+
+  <!-- Profile Visitors Badge -->
+  <img src="https://komarev.com/ghpvc/?username=Kartik-369&color=0070f3&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
+
+<br />
 
 ## Hi, I'm Kartik 👋
 
@@ -19,9 +24,30 @@ Background in Full-Stack Development, Applied AI, and Automation.
 
 ## 🛠️ Tech Stack & Tooling
 
-* **Programming:** Python, C++, C, JavaScript
-* **Libraries & Frameworks:** FastAPI, React, NumPy, Pandas, OpenCV, Scikit-Learn, TensorFlow, PyTorch
-* **Tools & Infra:** Docker, Kubernetes, MongoDB, Git, Linux, n8n Automation
+<div align="center">
+
+  ### Languages
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+  ### Frameworks & AI
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+  ### Tools & Infrastructure
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
@@ -41,13 +67,28 @@ Background in Full-Stack Development, Applied AI, and Automation.
 
 <div align="center">
   <a href="https://github.com/Kartik-369">
-    <img src="https://github-host-stats.vercel.app/api?username=Kartik-369&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Kartik's Stats" height="175px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kartik-369&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Kartik's GitHub Stats" height="175px" />
   </a>
-  <img src="https://streak-stats.demolab.com?user=Kartik-369&theme=dark&mode=daily&hide_border=true&border_radius=5" alt="GitHub Streak" height="175px" />
+  <a href="https://github.com/Kartik-369">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-369&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="175px" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kartik-369&theme=radical&mode=daily&hide_border=true&border_radius=5" alt="GitHub Streak" height="170px" />
 </div>
 
 ---
 
 ## 📬 Let's Connect
-* **LinkedIn:** [linkedin.com/in/kartike-padia](https://linkedin.com/in/kartike-padia)
-* **Email:** kartikbpadia0707@gmail.com
+
+<div align="center">
+  <a href="https://linkedin.com/in/kartike-padia">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kartikbpadia0707@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
