@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Kartik%20Padia&section=header" width="100%" />
 
-  <!-- Profile Visitors Badge -->
-  <img src="https://komarev.com/ghpvc/?username=Kartik-369&color=0070f3&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <br />
