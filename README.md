@@ -6,14 +6,14 @@
 
 ## Hi, I'm Kartik 👋
 
-Full-stack engineer and ML practitioner specializing in scalable FastAPI/React architectures[cite: 1]. I build end-to-end B2B platforms and deploy intelligent features using LLM APIs[cite: 1]. Looking to drive immediate engineering value in a fast-paced team[cite: 1].
+Full-stack engineer and ML practitioner specializing in scalable FastAPI/React architectures. I build end-to-end B2B platforms and deploy intelligent features using LLM APIs. Looking to drive immediate engineering value in a fast-paced team.
 
-**Currently building & breaking things as a B.Tech CSE student at Darshan University (Class of '28)[cite: 1].**
+**Currently building & breaking things as a B.Tech CSE student at Darshan University (Class of '28).**
 
-Previously **Machine Learning Intern** at **Feynn Labs** (07/2025 - 10/2025), where I[cite: 1]:
-* Implemented customer segmentation models using unsupervised clustering to identify distinct market segments[cite: 1].
-* Processed and analyzed large-scale datasets to extract actionable business insights for targeted marketing strategies[cite: 1].
-* Collaborated with cross-functional teams to deliver data-driven recommendations for market positioning[cite: 1].
+Previously **Machine Learning Intern** at **Feynn Labs** (07/2025 - 10/2025), where I:
+* Implemented customer segmentation models using unsupervised clustering to identify distinct market segments.
+* Processed and analyzed large-scale datasets to extract actionable business insights for targeted marketing strategies.
+* Collaborated with cross-functional teams to deliver data-driven recommendations for market positioning.
 
 ---
 
@@ -52,19 +52,19 @@ Previously **Machine Learning Intern** at **Feynn Labs** (07/2025 - 10/2025), wh
 ## 🚀 Featured Projects
 
 ### **LabZip - Student Cloud Storage** — `React` `FastAPI` `Docker` `Kubernetes`
-* Built a secure, campus-focused cloud storage platform for students, facilitating subject-based organization and optimized .zip lab submissions[cite: 1].
-* Engineered a stateless backend using FastAPI and Boto3 to enable direct, high-speed file uploads to S3-compatible storage (Backblaze B2) via presigned URLs[cite: 1].
-* Orchestrated containerized deployment using Docker and Kubernetes to ensure high availability and efficient microservice scalability[cite: 1].
+* Built a secure, campus-focused cloud storage platform for students, facilitating subject-based organization and optimized .zip lab submissions.
+* Engineered a stateless backend using FastAPI and Boto3 to enable direct, high-speed file uploads to S3-compatible storage (Backblaze B2) via presigned URLs.
+* Orchestrated containerized deployment using Docker and Kubernetes to ensure high availability and efficient microservice scalability.
 
 ### **NeuroBusiness - B2B ML Platform** — `FastAPI` `React` `XGBoost` `Gemini API`
-* Built a secure, async churn prediction platform that uses XGBoost and SHAP to identify at-risk customers, directly helping businesses reduce subscription cancellations[cite: 1].
-* Integrated Gemini API to automate personalized 3-step retention strategies, turning raw risk data into actionable customer engagement plans[cite: 1].
-* Developed a scalable, secure backend architecture that delivers high-performance insights while maintaining robust security[cite: 1].
+* Built a secure, async churn prediction platform that uses XGBoost and SHAP to identify at-risk customers, directly helping businesses reduce subscription cancellations.
+* Integrated Gemini API to automate personalized 3-step retention strategies, turning raw risk data into actionable customer engagement plans.
+* Developed a scalable, secure backend architecture that delivers high-performance insights while maintaining robust security.
 
 ### **Neural Networks from Scratch** — `Python` `NumPy`
-* Built Deep Learning architectures (Perceptron and MNIST Digit Classifier) from scratch using pure NumPy and matrix calculus[cite: 1].
-* Implemented custom forward pass, backpropagation, and loss functions (MSE, Cross-Entropy) to optimize weights[cite: 1].
-* Validated architecture on the Kaggle Digit Recognizer competition, achieving 96.2% accuracy[cite: 1].
+* Built Deep Learning architectures (Perceptron and MNIST Digit Classifier) from scratch using pure NumPy and matrix calculus.
+* Implemented custom forward pass, backpropagation, and loss functions (MSE, Cross-Entropy) to optimize weights.
+* Validated architecture on the Kaggle Digit Recognizer competition, achieving 96.2% accuracy.
 
 ---
 
